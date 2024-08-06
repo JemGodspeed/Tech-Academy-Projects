@@ -1,3 +1,4 @@
 this is my text file
 this is my second text line
 new branch shieeet
+adding merge conflict
