@@ -1,0 +1,7 @@
+
+alert("hello world i am an alert box!!!!");
+   function my_first_function() {
+            var string = "Kiss me, I'm Irish!";
+            var result = string.fontcolor("green");
+            document.getElementById("irish").innerHTML = result;
+        }
